@@ -189,10 +189,10 @@ All projects follow a standard UVM verification flow:
 ```bash
 UVM_Verification_Projects/
 │
-├── Project_1_RCA_UVM/
-├── Project_2_ALU_UVM/
-├── Project_3_Dual_Port_SRAM_UVM/
-├── Project_4_Synchronous_FIFO_UVM/
+├── RCA_with_UVM_based_Verification/
+├── ALU_with_UVM_based_Verification/
+├── Dual_Port_SRAM_with_UVM_based_Verification/
+├── Synchronous_FIFO_with_UVM_based_Verification/
 │
 └── README.md
 ```
